@@ -11,7 +11,3 @@ cd testing-react-speech-recognition
 npm install
 npm start
 ```
-
-## Github Pages Link:
-
-[Guillaume's testing-react-speech](https://gbouffard.github.io/testing-react-speech-recognition/)
