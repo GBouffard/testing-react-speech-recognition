@@ -1,7 +1,7 @@
 # :microphone: Testing React Speech Recognition :microphone:
 
 I wanted to find a library for that purpose; which I found so made a small repo with `create-react-app` to try it.
-It works! It's awesome.
+It's not what I was expecting: this is a speech recognition library as in "speech to written text"
 
 ## How to run it:
 
