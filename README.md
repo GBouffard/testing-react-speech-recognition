@@ -11,3 +11,7 @@ cd testing-react-speech-recognition
 npm install
 npm start
 ```
+
+## Desktop preview:
+
+![](public/testing-react-speech-recognition-image.png)
