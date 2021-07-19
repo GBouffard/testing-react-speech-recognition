@@ -1,4 +1,4 @@
-# :microphone: Testing React Speech Recognition :microphone:
+# :fax: Testing React Speech Recognition :fax:
 
 I wanted to find a library for that purpose; which I found so made a small repo with `create-react-app` to try it.
 It's not what I was expecting: this is a speech recognition library as in "speech to written text"
